@@ -1,0 +1,6 @@
+Pringles - their defining quality is the saddle shape, which is known in 
+official terms as a hyperbolic paraboloid  isn't just for aesthetics,
+it also makes it easier to stack the chips in the cylindrical tube container,
+as the hyperbolic paraboloid is plotted over a circular domain.
+Another advantage of this shape is that it minimizes the possibility of 
+broken chips during transport, since they're all packed together so tightly.
